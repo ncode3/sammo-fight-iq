@@ -16,6 +16,8 @@ Built on Red Hat OpenShift AI with pose detection, risk assessment, and persiste
 
 ---
 
+![SAMMO Architecture](docs/architecture.svg)
+
 ## Sample Output
 ```
 🥊 SAMMO:

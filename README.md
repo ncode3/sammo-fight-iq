@@ -22,9 +22,11 @@
 ## 🏆 The Legacy
 
 <div align="center">
+
 <img src="docs/jimmy_carter_boxer.jpg" alt="Jimmy Carter - 3x World Lightweight Champion" width="400">
 
-**Jimmy Carter** — *3x World Lightweight Champion (1950s)*
+**Jimmy Carter** — *3x World Lightweight Champion (1950s)*  
+*International Boxing Hall of Fame Inductee*
 </div>
 
 Before SAMMO was an AI, there was **Jimmy Carter**—not the president, but my grandfather, a legend in the ring.

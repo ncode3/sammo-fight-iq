@@ -29,7 +29,7 @@
 *International Boxing Hall of Fame Inductee*
 </div>
 
-Before SAMMO was an AI, there was **Jimmy Carter**—not the president, but my grandfather, a legend in the ring.
+Before SAMMO was an AI, there was **Jimmy Carter** not the president, but my grandfather, a legend in the ring.
 
 In the 1950s, Jimmy Carter stood at the pinnacle of boxing. **Three-time World Lightweight Champion** and later inducted into the **International Boxing Hall of Fame**, he wasn't just a fighter—he was a *student* of the sweet science. His teachings passed down through generations: *"Watch your opponent's hips, not their hands. The hips don't lie."*
 
